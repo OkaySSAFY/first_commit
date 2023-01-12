@@ -34,6 +34,6 @@ code block
 
 [치트시트](https://github.com/OkaySSAFY/first_commit.git)
 
-
+[마크다운 문법정리 블로그](https://blog.naver.com/hannn03/222857412182)
 
 
